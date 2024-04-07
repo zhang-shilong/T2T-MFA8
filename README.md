@@ -8,7 +8,7 @@ We generated a parthenogenesis cell line, MFA582-1, from a crab-eating macaque, 
 
 ### The UCSC Genome Browser
 
-All tracks are available in [the UCSC Genome Browser](https://genome.ucsc.edu/cgi-bin/hgTracks?hubUrl=https://synplotter.sjtu.edu.cn/trackhub/MaoHub/hub.txt&genome=hub_4292128_T2TMACFA_1.0&position=lastDbPos).
+All tracks are available on [the UCSC Genome Browser](https://genome.ucsc.edu/cgi-bin/hgTracks?hubUrl=https://synplotter.sjtu.edu.cn/trackhub/MaoHub/hub.txt&genome=hub_4292128_T2TMACFA_1.0&position=lastDbPos).
 
 ### Assembly
 
@@ -24,8 +24,8 @@ All tracks are available in [the UCSC Genome Browser](https://genome.ucsc.edu/cg
 
 ### Gene annotation
 
-- [Curated gene annotation](https://synplotter.sjtu.edu.cn/disk2/T2T-MFA8/T2T-MFA8v1.0.curated_gene_annotation.gtf.gz): LiftOff from [Mmul_10](https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_003339765.1/) RefSeq + GeneMarkS-T, with manual curation
-- [GeneMarkS-T](https://synplotter.sjtu.edu.cn/disk2/T2T-MFA8/T2T-MFA8v1.0.GeneMarkST.gtf.gz): The *de novo* prediction from Iso-seq data with GeneMarkS-T
+- [Curated gene annotation](https://synplotter.sjtu.edu.cn/disk2/T2T-MFA8/T2T-MFA8v1.0.curated_gene_annotation.gtf.gz): LiftOff result from [Mmul _10](https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_003339765.1/) RefSeq and lso-Seq transcripts annotated by GeneMarkS-T, with manual curation
+- [GeneMarkS-T](https://synplotter.sjtu.edu.cn/disk2/T2T-MFA8/T2T-MFA8v1.0.GeneMarkST.gtf.gz): annotated Iso-Seq FLNC transcripts
 - [LiftOff from Mmul_10 RefSeq](https://synplotter.sjtu.edu.cn/disk2/T2T-MFA8/T2T-MFA8v1.0.liftoff_Mmul_10.polished.gff3.gz)
 - [LiftOff from MFA1912RKSv2 RefSeq](https://synplotter.sjtu.edu.cn/disk2/T2T-MFA8/T2T-MFA8v1.0.liftoff_MFA1912RKSv2.polished.gff3.gz)
 
@@ -65,7 +65,7 @@ All tracks are available in [the UCSC Genome Browser](https://genome.ucsc.edu/cg
 
 We would appreciate if you would acknowledge and cite our paper:
 
-comming soon
+coming soon
 
 ## License
 
