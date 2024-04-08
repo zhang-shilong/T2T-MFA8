@@ -65,7 +65,7 @@ All tracks are available on [the UCSC Genome Browser](https://genome.ucsc.edu/cg
 
 We would appreciate if you would acknowledge and cite our paper:
 
-coming soon
+Zhang, S. *et al*. [Comparative genomics of macaques and integrated insights into genetic variation and population history](https://doi.org/10.1101/2024.04.07.588379). *bioRxiv* (2024).
 
 ## License
 
