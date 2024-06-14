@@ -8,7 +8,7 @@ We generated a parthenogenesis cell line, MFA582-1, from a crab-eating macaque, 
 
 ### NCBI Genome
 
-- T2T-MFA8v1.0: [GCA_037993035.1](https://www.ncbi.nlm.nih.gov/datasets/genome/GCA_037993035.1/)
+- T2T-MFA8v1.0: [GCF_037993035.1/GCA_037993035.1](https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_037993035.1/)
 
 ### The UCSC Genome Browser
 
