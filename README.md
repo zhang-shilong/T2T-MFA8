@@ -48,7 +48,7 @@ All tracks are available on [the UCSC Genome Browser](https://genome.ucsc.edu/cg
 - [CenSat](https://synplotter.sjtu.edu.cn/disk2/T2T-MFA8/v1.1/T2T-MFA8v1.1.CenSat.bed): the 500-kbp extended regions of centromeres
 - Segmental duplications: [native bed format](https://synplotter.sjtu.edu.cn/disk2/T2T-MFA8/v1.1/T2T-MFA8v1.1.SDs.bed.gz) or [merged bed format](https://synplotter.sjtu.edu.cn/disk2/T2T-MFA8/v1.1/T2T-MFA8v1.1.SDs.merged.bed.gz)
 - Tandem repeats: [bed format](https://synplotter.sjtu.edu.cn/disk2/T2T-MFA8/v1.1/T2T-MFA8v1.1.TRF.bed.gz) or [merged bed format](https://synplotter.sjtu.edu.cn/disk2/T2T-MFA8/v1.1/T2T-MFA8v1.1.TRF.merged.bed.gz)
-- RepeatMasker:  [native out format](https://synplotter.sjtu.edu.cn/disk2/T2T-MFA8/v1.1/T2T-MFA8v1.1.RepeatMasker_Dfam3.6.RepeatModeler.out.gz) or [bed format](https://synplotter.sjtu.edu.cn/disk2/T2T-MFA8/v1.1/T2T-MFA8v1.1.RepeatMasker_Dfam3.6.RepeatModeler.bed.gz) or [merged bed format](https://synplotter.sjtu.edu.cn/disk2/T2T-MFA8/v1.1/T2T-MFA8v1.1.RepeatMasker_Dfam3.6.RepeatModeler.merged.bed.gz)
+- RepeatMasker: [native out format](https://synplotter.sjtu.edu.cn/disk2/T2T-MFA8/v1.1/T2T-MFA8v1.1.RepeatMasker_Dfam3.6.RepeatModeler.out.gz) or [bed format](https://synplotter.sjtu.edu.cn/disk2/T2T-MFA8/v1.1/T2T-MFA8v1.1.RepeatMasker_Dfam3.6.RepeatModeler.bed.gz) or [merged bed format](https://synplotter.sjtu.edu.cn/disk2/T2T-MFA8/v1.1/T2T-MFA8v1.1.RepeatMasker_Dfam3.6.RepeatModeler.merged.bed.gz)
 - [WindowMasker (with SDust)](https://synplotter.sjtu.edu.cn/disk2/T2T-MFA8/v1.1/T2T-MFA8v1.1.WindowMasker_SDust.bed.gz)
 - [Centromere suprachromosomal family annotation](https://synplotter.sjtu.edu.cn/disk2/T2T-MFA8/v1.1/T2T-MFA8v1.1.suprachromosomal_family.bed.gz)
 - [rDNA models](https://synplotter.sjtu.edu.cn/disk2/T2T-MFA8/v1.1/T2T-MFA8v1.1.rDNA.bed)
@@ -81,6 +81,8 @@ To avoid confusion, previous versions are not displayed on this page, but you ca
 We would appreciate if you would acknowledge and cite our paper:
 
 Zhang, S. *et al*. [Comparative genomics of macaques and integrated insights into genetic variation and population history](https://doi.org/10.1101/2024.04.07.588379). *bioRxiv* (2024).
+
+This article has been accepted for publication in *Nature* and will be available online shortly.
 
 ## License
 
