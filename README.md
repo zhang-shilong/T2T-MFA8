@@ -80,9 +80,7 @@ To avoid confusion, previous versions are not displayed on this page, but you ca
 
 We would appreciate if you would acknowledge and cite our paper:
 
-Zhang, S. *et al*. [Comparative genomics of macaques and integrated insights into genetic variation and population history](https://doi.org/10.1101/2024.04.07.588379). *bioRxiv* (2024).
-
-This article has been accepted for publication in *Nature* and will be available online shortly.
+Zhang, S., Xu, N., Fu, L. *et al*. Integrated analysis of the complete sequence of a macaque genome. *Nature* (2025). [https://doi.org/10.1038/s41586-025-08596-w](https://doi.org/10.1038/s41586-025-08596-w)
 
 ## License
 
