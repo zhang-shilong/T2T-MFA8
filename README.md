@@ -8,7 +8,7 @@ We generated a parthenogenesis cell line, MFA582-1, from a crab-eating macaque, 
 
 ### NCBI Genome
 
-- T2T-MFA8v1.0: [GCF_037993035.1/GCA_037993035.1](https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_037993035.1/) (chrY is under processing)
+- T2T-MFA8v1.1: [GCF\_037993035.2](https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_037993035.2)
 
 ### The UCSC Genome Browser
 
@@ -34,9 +34,9 @@ All tracks are available on [the UCSC Genome Browser](https://genome.ucsc.edu/cg
 
 ### Gene annotation
 
-- [Curated gene annotation](https://synplotter.sjtu.edu.cn/disk2/T2T-MFA8/v1.1/T2T-MFA8v1.1.curated_gene_annotation.gtf.gz): LiftOff result from [Mmul _10](https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_003339765.1/) RefSeq and lso-Seq transcripts annotated by GeneMarkS-T, with manual curation
+- [Curated gene annotation](https://synplotter.sjtu.edu.cn/disk2/T2T-MFA8/v1.1/T2T-MFA8v1.1.curated_gene_annotation.gtf.gz): LiftOff result from [Mmul\_10](https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_003339765.1/) RefSeq and lso-Seq transcripts annotated by GeneMarkS-T, with manual curation
 - [GeneMarkS-T](https://synplotter.sjtu.edu.cn/disk2/T2T-MFA8/v1.0/T2T-MFA8v1.0.GeneMarkST.gtf.gz): annotated Iso-Seq FLNC transcripts (autosomes + chrX)
-- [LiftOff from Mmul_10 RefSeq](https://synplotter.sjtu.edu.cn/disk2/T2T-MFA8/v1.1/T2T-MFA8v1.1.liftoff_Mmul_10.polished.gff3.gz)
+- [LiftOff from Mmul\_10 RefSeq](https://synplotter.sjtu.edu.cn/disk2/T2T-MFA8/v1.1/T2T-MFA8v1.1.liftoff_Mmul_10.polished.gff3.gz)
 
 ### Mappability
 - [21-mer with no error](https://synplotter.sjtu.edu.cn/disk2/T2T-MFA8/v1.1/T2T-MFA8v1.1.k21_e0_mappability.bedgraph.gz): produced by [GenMap](https://github.com/cpockrandt/genmap)
@@ -69,7 +69,7 @@ All tracks are available on [the UCSC Genome Browser](https://genome.ucsc.edu/cg
   - [macFas6](https://synplotter.sjtu.edu.cn/disk2/T2T-MFA8/v1.0/T2T-MFA8v1.0.non_syntenic_regions_to_macFas6.bed.gz)
   - [MFA1912RKSv2](https://synplotter.sjtu.edu.cn/disk2/T2T-MFA8/v1.0/T2T-MFA8v1.0.non_syntenic_regions_to_MFA1912RKSv2.bed.gz)
 - Rhesus macaque assemblies
-  - [Mmul_10](https://synplotter.sjtu.edu.cn/disk2/T2T-MFA8/v1.0/T2T-MFA8v1.0.non_syntenic_regions_to_Mmul_10.bed.gz)
+  - [Mmul\_10](https://synplotter.sjtu.edu.cn/disk2/T2T-MFA8/v1.0/T2T-MFA8v1.0.non_syntenic_regions_to_Mmul_10.bed.gz)
   - [rheMacS](https://synplotter.sjtu.edu.cn/disk2/T2T-MFA8/v1.0/T2T-MFA8v1.0.non_syntenic_regions_to_rheMacS.bed.gz)
 
 ## Previous versions
