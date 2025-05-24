@@ -34,6 +34,7 @@ All tracks are available on [the UCSC Genome Browser](https://genome.ucsc.edu/cg
 
 ### Gene annotation
 
+- [NCBI RefSeq GCF\_037993035.2-RS\_2025\_03](https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_037993035.2)
 - [Curated gene annotation](https://synplotter.sjtu.edu.cn/disk2/T2T-MFA8/v1.1/T2T-MFA8v1.1.curated_gene_annotation.gtf.gz): LiftOff result from [Mmul\_10](https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_003339765.1/) RefSeq and lso-Seq transcripts annotated by GeneMarkS-T, with manual curation
 - [GeneMarkS-T](https://synplotter.sjtu.edu.cn/disk2/T2T-MFA8/v1.0/T2T-MFA8v1.0.GeneMarkST.gtf.gz): annotated Iso-Seq FLNC transcripts (autosomes + chrX)
 - [LiftOff from Mmul\_10 RefSeq](https://synplotter.sjtu.edu.cn/disk2/T2T-MFA8/v1.1/T2T-MFA8v1.1.liftoff_Mmul_10.polished.gff3.gz)
