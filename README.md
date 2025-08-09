@@ -1,6 +1,6 @@
 # T2T-MFA8
 
-T2T-MFA8, is pronounced T2T-macfallite.
+T2T-MFA8, the complete sequence of a crab-eating macaque.
 
 We generated a parthenogenesis cell line, MFA582-1, from a crab-eating macaque, from which we produced 53× PacBio HiFi, 77× ONT, 32× Illumina WGS, and 156× Hi-C data. Then, we constructed a telomere-to-telomere assembly of the crab-eating macaque (T2T-MFA8). All resources are available on this site.
 
