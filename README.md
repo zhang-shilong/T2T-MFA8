@@ -10,26 +10,28 @@ Check our sister reference genome: [T2T-MMU8](https://github.com/zhang-shilong/T
 
 ### NCBI Genome
 
-- T2T-MFA8v1.1: [GCF\_037993035.2](https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_037993035.2)
+- **T2T-MFA8v1.1**: [GCF\_037993035.2](https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_037993035.2)
+- T2T-MFA8v1.0: [GCF\_037993035.1](https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_037993035.1)
 
-### The UCSC Genome Browser
+### UCSC Track Hub
 
-All tracks are available on [the UCSC Genome Browser](https://genome.ucsc.edu/cgi-bin/hgTracks?hubUrl=https://synplotter.sjtu.edu.cn/trackhub/MaoHub/hub.txt&genome=hub_4292128_T2TMACFA_1.0&position=lastDbPos).
+- **T2T-MFA8v1.1**
+  - Hub connect: [US](https://genome.ucsc.edu/cgi-bin/hgTracks?hubUrl=https://synplotter.sjtu.edu.cn/disk2/T2TMacaqueHub/hub.txt&genome=hub_605438_T2T-MFA8v1.1&position=lastDbPos) / [Euro](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?hubUrl=https://synplotter.sjtu.edu.cn/disk2/T2TMacaqueHub/hub.txt&genome=hub_605438_T2T-MFA8v1.1&position=lastDbPos) / [Asia](https://genome-asia.ucsc.edu/cgi-bin/hgTracks?hubUrl=https://synplotter.sjtu.edu.cn/disk2/T2TMacaqueHub/hub.txt&genome=hub_605438_T2T-MFA8v1.1&position=lastDbPos)
+  - [Hub URL](https://synplotter.sjtu.edu.cn/disk2/T2TMacaqueHub/hub.txt)
 
 ### Assembly
 
-- [T2T-MFA8v1.1](https://synplotter.sjtu.edu.cn/disk2/T2T-MFA8/v1.1/T2T-MFA8v1.1.AXYM.no_mask.fasta.gz): unmasked, 20 autosomes + chrX + chrMT + chrY from MFA0214
-- [T2T-MFA8v1.1](https://synplotter.sjtu.edu.cn/disk2/T2T-MFA8/v1.1/T2T-MFA8v1.1.AXYM.soft.fasta.gz): soft-masked (segmental duplications, tandem repeats and RepeatMasker), 20 autosomes + chrX + chrMT + chrY from MFA0214
-- [T2T-MFA8v1.1](https://synplotter.sjtu.edu.cn/disk2/T2T-MFA8/v1.1/T2T-MFA8v1.1.AXYM.soft.chrY_PAR_hard.fasta.gz): soft-masked T2T-MFA8v1.1 + hard-masked chrY PAR
+- [**T2T-MFA8v1.1**](https://synplotter.sjtu.edu.cn/disk2/T2T-MFA8/v1.1/T2T-MFA8v1.1.AXYM.no_mask.fasta.gz): unmasked, 20 autosomes + chrX + chrY + chrMT
+- [T2T-MFA8v1.0](https://synplotter.sjtu.edu.cn/disk2/T2T-MFA8/v1.0/T2T-MFA8v1.0.fasta.gz): unmasked, 20 autosomes + chrX + chrMT
 
 ### Sequencing data
 
-- MFA582-1
+- MFA582-1 (autosomes, chrX and chrMT)
   - PacBio WGS: [SRX22719293](https://www.ncbi.nlm.nih.gov/sra/SRX22719293)
   - Oxford Nanopore Technology WGS: [SRX22719294](https://www.ncbi.nlm.nih.gov/sra/SRX22719294)
   - Illumina WGS: [SRX22702646](https://www.ncbi.nlm.nih.gov/sra/SRX22702646)
   - Hi-C: [SRX22702647](https://www.ncbi.nlm.nih.gov/sra/SRX22702647)
-- MFA0214
+- MFA0214 (chrY)
   - PacBio WGS: [SRX22874566](https://www.ncbi.nlm.nih.gov/sra/SRX22874566) and [SRX25542261](https://www.ncbi.nlm.nih.gov/sra/SRX25542261)
   - Oxford Nanopore Technology WGS: [SRX22874568](https://www.ncbi.nlm.nih.gov/sra/SRX22874568)
   - Illumina WGS: [SRX22874666](https://www.ncbi.nlm.nih.gov/sra/SRX22874666) and [SRX25542262](https://www.ncbi.nlm.nih.gov/sra/SRX25542262)
