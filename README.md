@@ -19,6 +19,8 @@ Check our sister reference genome: [T2T-MMU8](https://github.com/zhang-shilong/T
   - Hub connect: [US](https://genome.ucsc.edu/cgi-bin/hgTracks?hubUrl=https://synplotter.sjtu.edu.cn/disk2/T2TMacaqueHub/hub.txt&genome=T2T-MFA8v1.1&position=lastDbPos) / [Euro](https://genome-euro.ucsc.edu/cgi-bin/hgTracks?hubUrl=https://synplotter.sjtu.edu.cn/disk2/T2TMacaqueHub/hub.txt&genome=T2T-MFA8v1.1&position=lastDbPos) / [Asia](https://genome-asia.ucsc.edu/cgi-bin/hgTracks?hubUrl=https://synplotter.sjtu.edu.cn/disk2/T2TMacaqueHub/hub.txt&genome=T2T-MFA8v1.1&position=lastDbPos)
   - [Hub URL](https://synplotter.sjtu.edu.cn/disk2/T2TMacaqueHub/hub.txt)
 
+Track hubs were generated using [bigtrack](https://github.com/zhang-shilong/bigtrack).
+
 ### Assembly
 
 - [**T2T-MFA8v1.1**](https://synplotter.sjtu.edu.cn/disk2/T2T-MFA8/v1.1/T2T-MFA8v1.1.AXYM.no_mask.fasta.gz): unmasked, 20 autosomes + chrX + chrY + chrMT
