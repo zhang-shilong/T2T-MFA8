@@ -25,7 +25,7 @@ Track hubs were generated using [bigtrack](https://github.com/zhang-shilong/bigt
 
 - T2T-MFA8v1.0 (suppressed)
   - [Ensembl genome](https://beta.ensembl.org/species/afef7bfb-c31b-4a8f-ab1d-15f0a21dbc42)
-  - [Ensembl annoattion 2025/05](https://ftp.ebi.ac.uk/pub/ensemblorganisms/Macaca_fascicularis/GCA_037993035.1/ensembl/geneset/2025_05/)
+  - [Ensembl annotation 2025/05](https://ftp.ebi.ac.uk/pub/ensemblorganisms/Macaca_fascicularis/GCA_037993035.1/ensembl/geneset/2025_05/)
   - [Ensembl homologies 2025/05](https://ftp.ebi.ac.uk/pub/ensemblorganisms/Macaca_fascicularis/GCA_037993035.1/ensembl/homology/2025_05/)
 
 ### Assembly
