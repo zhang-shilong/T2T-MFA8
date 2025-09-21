@@ -10,8 +10,8 @@ Check our sister reference genome: [T2T-MMU8](https://github.com/zhang-shilong/T
 
 ### NCBI Genome
 
-- **T2T-MFA8v1.1**: [GCF\_037993035.2](https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_037993035.2)
-- T2T-MFA8v1.0: [GCF\_037993035.1](https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_037993035.1)
+- **T2T-MFA8v1.1**: [GCF\_037993035.2 / GCA\_037993035.2](https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_037993035.2) (NCBI RefSeq)
+- T2T-MFA8v1.0: [GCF\_037993035.1 / GCA\_037993035.1](https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_037993035.1) (NCBI RefSeq, suppressed)
 
 ### UCSC Track Hub
 
@@ -21,10 +21,17 @@ Check our sister reference genome: [T2T-MMU8](https://github.com/zhang-shilong/T
 
 Track hubs were generated using [bigtrack](https://github.com/zhang-shilong/bigtrack).
 
+### Ensembl
+
+- T2T-MFA8v1.0 (suppressed)
+  - [Ensembl genome](https://beta.ensembl.org/species/afef7bfb-c31b-4a8f-ab1d-15f0a21dbc42)
+  - [Ensembl annoattion 2025/05](https://ftp.ebi.ac.uk/pub/ensemblorganisms/Macaca_fascicularis/GCA_037993035.1/ensembl/geneset/2025_05/)
+  - [Ensembl homologies 2025/05](https://ftp.ebi.ac.uk/pub/ensemblorganisms/Macaca_fascicularis/GCA_037993035.1/ensembl/homology/2025_05/)
+
 ### Assembly
 
 - [**T2T-MFA8v1.1**](https://synplotter.sjtu.edu.cn/disk2/T2T-MFA8/v1.1/T2T-MFA8v1.1.AXYM.no_mask.fasta.gz): unmasked, 20 autosomes + chrX + chrY + chrMT
-- [T2T-MFA8v1.0](https://synplotter.sjtu.edu.cn/disk2/T2T-MFA8/v1.0/T2T-MFA8v1.0.fasta.gz): unmasked, 20 autosomes + chrX + chrMT
+- [T2T-MFA8v1.0](https://synplotter.sjtu.edu.cn/disk2/T2T-MFA8/v1.0/T2T-MFA8v1.0.fasta.gz): unmasked, 20 autosomes + chrX + chrMT (suppressed)
 
 ### Sequencing data
 
